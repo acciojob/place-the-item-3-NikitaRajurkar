@@ -1,2 +1,16 @@
+.holder
+{
+    display: flex;
+    background-color: rgb(65, 158, 225);
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+}
 
+.item
+{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    margin: 40px 10px;
+}
 /* Your CSS Code here. */
